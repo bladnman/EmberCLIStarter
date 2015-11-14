@@ -23,7 +23,7 @@ You will need the following things properly installed on your computer.
 ## Running / Development
 
 * `ember server`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* Visit your app at [http://localhost:4400](http://localhost:4400).
 
 ### ReqPayload (static)
 
@@ -32,7 +32,7 @@ to copy the `/config/reqpayload.temaplate.js` file to `/config/reqpayload.local.
 will find instructions inside of the template file.
 
 After this you can restart your local server with `ember server` and then skip passed authorization 
-by going to the url: [http://localhost:4200/profiles](http://localhost:4200/profiles)
+by going to the url: [http://localhost:4200/profiles](http://localhost:4400/profiles)
 
 
 ### options ###

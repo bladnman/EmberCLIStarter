@@ -125,7 +125,7 @@ module.exports = function (environment) {
       'https://baroness.e1-np.api.playstation.com/',
       'https://baroness.q1-np.api.playstation.com/',
       'https://auth.api.sonyentertainmentnetwork.com/',
-      'http://localhost:4200/'
+      'http://localhost:4400/'
     ]
   };
 
