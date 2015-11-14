@@ -6,6 +6,12 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+
+
+  if(config.environment !== 'production') {
+    //this.route('dev', function() {});
+  }
+
 });
 
 export default Router;
