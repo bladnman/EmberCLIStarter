@@ -25,25 +25,6 @@ var commit = function() {
 };
 
 
-/**
- *  LOCAL STATIC REQPAYLOAD
- *
- *  We will attempt to load the .local version of the staticReqPayload
- *  for use in certain (non-production) builds.
- *
- */
-var localStaticReqPayloadValue   = null;
-try {
-  localStaticReqPayloadValue     = require('./reqpayload.local.js');
-  console.log('****');
-  console.log('**** YOU HAVE A STATIC REQ PAYLOAD SET FOR THIS ENVIRONMENT');
-  console.log('****');
-} catch (ex) {}
-
-
-
-
-
 module.exports = function (environment) {
   //console.log('* * * *  ENVIRONMENT TYPE:', environment);
 
@@ -86,8 +67,7 @@ module.exports = function (environment) {
       // during dev, probably want to remove log statements completely during release build
       log                   : {
         history             : false
-      },
-      staticReqPayload      : null
+      }
     }
   };
 
@@ -149,31 +129,22 @@ module.exports = function (environment) {
      */
       //ENV.locationType        = 'auto';
     ENV.APP.useFixtures       = !shouldUseLiveData(environment, argv);
-    ENV.APP.staticReqPayload  = localStaticReqPayloadValue || null;
 
   }
 
-  /**
-   *  T E S T : bladnman.com
-   */
-  else if ( environment === 'test:bladnman.com' ) {
-    ENV.baseURL               = '/sony/baroness/';
-    ENV.APP.staticReqPayload  = localStaticReqPayloadValue || null;
-  }
 
   /**
    *  ALL OTHER : T E S T
    */
   else if ( environment.indexOf('test') === 0 ) {
-    ENV.locationType          = 'hash';
-    ENV.APP.staticReqPayload  = localStaticReqPayloadValue || null;
+    //ENV.locationType          = 'hash';
   }
 
   /**
    *  P R O D U C T I O N
    */
   else if ( environment === 'production' ) {
-    ENV.locationType          = 'hash';
+    //ENV.locationType          = 'hash';
   }
 
   return ENV;
