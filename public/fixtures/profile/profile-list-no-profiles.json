@@ -1,0 +1,21 @@
+{
+    "header": {
+        "request": "/sentv_user_ext/ws/v2/profile/ids",
+        "status": "OK",
+        "request_id": null,
+        "error": null,
+        "time_stamp": "2015-05-03T18:25:29.309Z"
+    },
+    "body": {
+        "homeZipCode": "10011",
+        "uuid": "7858938F4CB5F01E43E4E698EB9764E1BAE964BCE751229BEB5BF1B525947C16",
+        "out_of_home": true,
+        "channel_restrict": [],
+        "rating_restrict": [],
+        "launch_program": {
+            "uri": "http://tbs-cartoonnetwork.live.sonytv.adaptive.level3.net/PROD04/sony/TBS_CARTOONNETWORK/live/master_wired.m3u8",
+            "airing_id": 7635022
+        },
+        "profiles": []
+    }
+}

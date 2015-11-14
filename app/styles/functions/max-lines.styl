@@ -1,0 +1,10 @@
+max-lines(n) {
+  //set up max line numbers using webkit.
+  //we could figure out a more universal solution at some point
+  white-space             : normal;
+  display                 : -webkit-box;
+  width                   : inherit;
+  -webkit-box-orient      : vertical;
+  -webkit-line-clamp      : n;
+  overflow                : hidden;
+}

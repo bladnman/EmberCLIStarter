@@ -1,0 +1,195 @@
+{
+  "body": {
+	"program": {
+		"in_custom_collections": [],
+		"id": 7177,
+		"is_new": false,
+		"expiring": false,
+		"genres": [],
+		"synopsis": "Boomerang",
+		"dvr_expiring": false,
+		"playable": false,
+		"urls": [
+			{
+				"type": "IMAGE",
+				"size": "network_small_58_44",
+				"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_NETWORK_SMALL_58_44.png"
+			},
+			{
+				"type": "IMAGE",
+				"size": "network_large_440_330",
+				"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_NETWORK_LARGE_440_330.png"
+			},
+			{
+				"type": "IMAGE",
+				"size": "logo",
+				"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_SIZE_SONY_CHANNEL_LOGO.png"
+			},
+			{
+				"type": "IMAGE",
+				"size": "network_medium_80_60",
+				"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_NETWORK_MEDIUM_80_60.png"
+			}
+		],
+		"cast": [],
+		"sentv_type": "channel",
+		"title": "Boomerang",
+		"airings": [],
+		"sub_item": {
+			"in_custom_collections": [],
+			"id": 137211,
+			"is_new": false,
+			"has_editions": false,
+			"dvr_expiration_date": "2015-07-07T16:00:00.000Z",
+			"display_title": "Looney Tunes",
+			"expiring": true,
+			"genres": [
+				{
+					"genre": "Animation",
+					"genre_id": 50
+				},
+				{
+					"genre": "Comedy",
+					"genre_id": 54
+				},
+				{
+					"genre": "Kids",
+					"genre_id": 70
+				}
+			],
+			"synopsis": "The adventures of Bugs Bunny, Daffy Duck, Porky Pig and friends.",
+			"series_synopsis": "Cartoon shorts feature the animated antics of beloved Warner Brothers characters such as Porky Pig, Daffy Duck, Elmer Fudd, Bugs Bunny, Wile E. Coyote, Sylvester the cat, Tweety Bird, Marvin the Martian, Taz, the Tasmanian devil, Foghorn Leghorn and Yosemite Sam.",
+			"keywords": [],
+			"dvr_expiring": false,
+			"broadcast_date": "1930-04-19T00:00:00.000Z",
+			"sentv_type_id": 10,
+			"playable": true,
+			"display_episode_title": "Looney Tunes",
+			"urls": [
+				{
+					"type": "IMAGE",
+					"size": "tms_1080_1440",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/p432102_b_v9_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tms_1440_1080",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/p432102_b_h9_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tms_1920_1080",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/p432102_i_h10_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "portrait_396_528",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/432102.PORTRAIT_396_528.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "standard_600_450",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/432102.STANDARD_600_450.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tile",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/432102.tile.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tile_small",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/432102.tile_small.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "hero_1920_1080",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/p432102_i_h10_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "hero_2048_1152",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/43/2102/p432102_i_h10_aa.jpg"
+				}
+			],
+			"cast": [],
+			"expiration_date": "2015-06-09T17:00:00.000Z",
+			"tms_id": "SH000197870000",
+			"sentv_type": "TV Shows",
+			"series_id": 22829,
+			"title": "Looney Tunes",
+			"airings": [
+				{
+					"channel_name": "Boomerang",
+					"age_rating": "TV-G",
+					"age_rating_id": 2,
+					"duration_cat_id": 2,
+					"entitled": false,
+					"channel_tms_id": "21883",
+					"restrict_mobile": false,
+					"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_SIZE_SONY_CHANNEL_LOGO.png",
+					"type": "catchup",
+					"first_run": false,
+					"dvr_expiration_date": "2015-07-07T16:00:00.000Z",
+					"urls": [
+						{
+							"type": "IMAGE",
+							"size": "network_small_58_44",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_NETWORK_SMALL_58_44.png"
+						},
+						{
+							"type": "IMAGE",
+							"size": "network_large_440_330",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_NETWORK_LARGE_440_330.png"
+						},
+						{
+							"type": "IMAGE",
+							"size": "logo",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_SIZE_SONY_CHANNEL_LOGO.png"
+						},
+						{
+							"type": "IMAGE",
+							"size": "network_medium_80_60",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/7177/boom_440x330_2_NETWORK_MEDIUM_80_60.png"
+						}
+					],
+					"restrict_out_of_home": false,
+					"restrict_dvr_out_of_home": true,
+					"complete_playlist_available": false,
+					"block_fast_forward": true,
+					"expiration_date": "2015-06-09T17:00:00.000Z",
+					"program_id": 137211,
+					"series_id": 22829,
+					"original_broadcast_date": -1252972800000,
+					"ent_keywords": [
+						"PREMIUM"
+					],
+					"ent_rules": [
+						"SENTV_GENERIC"
+					],
+					"bo_keywords": [],
+					"bo_rules": [],
+					"vod_replacement_available": false,
+					"airing_expiration": 1433869200000,
+					"airing_dvr_expiration": 1436284800000,
+					"dmas": [
+						"NAT"
+					],
+					"airing_id": 7853739,
+					"airing_date": "2015-06-09T16:00:00.000Z",
+					"airing_enddate": "2015-06-09T17:00:00.000Z",
+					"channel_id": 7177
+				}
+			],
+			"airing_date": "2015-06-09T16:00:00.000Z"
+		}
+	}
+  },
+  "header": {
+	"error": null,
+	"time_stamp": "2015-05-07T20:02:05.611Z",
+	"request_id": null,
+	"request": "/v2/channel/4686",
+	"status": "OK"
+  }
+}

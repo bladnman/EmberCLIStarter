@@ -1,0 +1,110 @@
+{
+  "body": {
+    "items": [
+      {
+        "sentv_type": "custom_collection",
+        "id": 740,
+        "urls": [],
+        "dvr_expiring": false,
+        "playable": false,
+        "synopsis": "",
+        "is_new": false,
+        "has_featured": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "expiring": false,
+        "title": "Series"
+      },
+      {
+        "sentv_type": "custom_collection",
+        "id": 738,
+        "urls": [],
+        "dvr_expiring": false,
+        "playable": false,
+        "synopsis": "",
+        "is_new": false,
+        "has_featured": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "expiring": false,
+        "title": "Movies"
+      },
+      {
+        "sentv_type": "custom_collection",
+        "id": 741,
+        "urls": [],
+        "dvr_expiring": false,
+        "playable": false,
+        "synopsis": "",
+        "is_new": false,
+        "has_featured": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "expiring": false,
+        "title": "Sports"
+      },
+      {
+        "sentv_type": "custom_collection",
+        "id": 737,
+        "urls": [],
+        "dvr_expiring": false,
+        "playable": false,
+        "synopsis": "",
+        "is_new": false,
+        "has_featured": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "expiring": false,
+        "title": "Comedy"
+      },
+      {
+        "sentv_type": "custom_collection",
+        "id": 739,
+        "urls": [],
+        "dvr_expiring": false,
+        "playable": false,
+        "synopsis": "",
+        "is_new": false,
+        "has_featured": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "expiring": false,
+        "title": "Reality & Docs"
+      },
+      {
+        "sentv_type": "custom_collection",
+        "id": 736,
+        "urls": [],
+        "dvr_expiring": false,
+        "playable": false,
+        "synopsis": "",
+        "is_new": false,
+        "has_featured": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "expiring": false,
+        "title": "After Hours"
+      }
+    ],
+    "total_results": 6
+  },
+  "header": {
+    "error": null,
+    "request": "/v2/details/items/channel/25175/collections/offset/0/size/100",
+    "status": "OK",
+    "time_stamp": "2015-08-31T22:29:46.767Z",
+    "request_id": "11"
+  }
+}

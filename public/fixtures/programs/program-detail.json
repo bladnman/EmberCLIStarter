@@ -1,0 +1,163 @@
+{
+  "body": {
+    "program": {
+      "dvr_expiring": false,
+      "playable": true,
+      "in_custom_collections": [],
+      "synopsis": "Homer wins the competition to become the new Duffman after the old one retires.",
+      "series_synopsis": "This long-running animated comedy focuses on the eponymous family in the town of Springfield in an unnamed U.S. state. The head of the Simpson family, Homer, is not a typical family man. A nuclear-plant employee, he does his best to lead his family but often finds that they are leading him. The family includes loving, blue-haired matriarch Marge, troublemaking son Bart, overachieving daughter Lisa and baby Maggie. Other Springfield residents include the family's religious neighbor, Ned Flanders, family physician Dr. Hibbert, Moe the bartender and police chief Clancy Wiggum.",
+      "genres": [
+        {
+          "genre": "Animation",
+          "genre_id": 50
+        },
+        {
+          "genre": "Comedy",
+          "genre_id": 54
+        }
+      ],
+      "cast": [],
+      "expiration_date": "2015-07-16T00:00:00.000Z",
+      "dvr_expiration_date": "2015-08-10T00:00:00.000Z",
+      "broadcast_date": "2015-03-15T00:00:00.000Z",
+      "tms_id": "EP000186930606",
+      "is_new": false,
+      "is_favorite": false,
+      "urls": [
+        {
+          "type": "IMAGE",
+          "size": "tms_1080_1440",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_b_v9_ak.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "tms_1440_1080",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_b_h9_ak.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "tms_1920_1080",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_i_h10_aa.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "portrait_396_528",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.PORTRAIT_396_528.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "standard_600_450",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.STANDARD_600_450.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "tile",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.tile.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "tile_small",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.tile_small.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "hero_1920_1080",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_i_h10_aa.jpg"
+        },
+        {
+          "type": "IMAGE",
+          "size": "hero_2048_1152",
+          "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_i_h10_aa.jpg"
+        }
+      ],
+      "id": 946889,
+      "channel": {
+        "channel_id": 6533,
+        "name_short": "WNYWDT",
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "network_medium_80_60",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_MEDIUM_80_60.png"
+          },
+          {
+            "type": "IMAGE",
+            "size": "network_small_58_44",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_SMALL_58_44.png"
+          },
+          {
+            "type": "IMAGE",
+            "size": "network_large_440_330",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_LARGE_440_330.png"
+          },
+          {
+            "type": "IMAGE",
+            "size": "logo",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png"
+          }
+        ],
+        "name": "Fox 5"
+      },
+      "title_sub": "Waiting for Duffman",
+      "display_title": "The Simpsons",
+      "display_episode_title": "Waiting for Duffman",
+      "season_num": "26",
+      "episode_num": "17",
+      "expiring": true,
+      "airing_date": "2015-07-13T00:00:00.000Z",
+      "sentv_type": "TV Shows",
+      "series_id": 21070,
+      "title": "The Simpsons",
+      "airings": [
+        {
+          "vod_replacement_available": false,
+          "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png",
+          "channel_name": "Fox 5",
+          "age_rating": "TV-PG",
+          "entitled": true,
+          "restrict_mobile": false,
+          "restrict_out_of_home": false,
+          "restrict_dvr_out_of_home": true,
+          "complete_playlist_available": true,
+          "block_fast_forward": true,
+          "expiration_date": "2015-07-16T00:00:00.000Z",
+          "dvr_expiration_date": "2015-08-10T00:00:00.000Z",
+          "channel_id": 6533,
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png"
+            }
+          ],
+          "type": "catchup",
+          "airing_date": "2015-07-13T00:00:00.000Z",
+          "airing_enddate": "2015-07-13T00:30:00.000Z",
+          "airing_id": 7897448
+        }
+      ]
+    }
+  },
+  "header": {
+    "request": "/v2/program/946889",
+    "status": "OK",
+    "error": null,
+    "time_stamp": "2015-07-13T14:05:09.908Z",
+    "request_id": null
+  }
+}

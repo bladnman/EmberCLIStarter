@@ -1,0 +1,995 @@
+{
+  "body": {
+    "total_results": 6,
+    "items": [
+      {
+        "id": 1020919,
+        "channel": {
+          "name": "Spike",
+          "name_short": "SPIKEHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "channel_id": 3511
+        },
+        "dvr_expiring": false,
+        "playable": false,
+        "in_custom_collections": [],
+        "synopsis": "Apprentices battle their masters to prove their skills; the judges must critique blind.",
+        "series_synopsis": "Dave Navarro hosts this tattoo competition series.",
+        "genres": [],
+        "cast": [
+          {
+            "name": "Dave Navarro",
+            "type": "Host",
+            "cast_id": 54702
+          }
+        ],
+        "expiration_date": "2015-08-18T20:00:00.000Z",
+        "dvr_expiration_date": "2015-09-15T19:00:00.000Z",
+        "broadcast_date": "2015-06-23T00:00:00.000Z",
+        "tms_id": "EP014812090074",
+        "is_new": false,
+        "is_favorite": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/88/69120/8869120.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "upload_min_16_9",
+            "src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/21152/ink_masters_2048x1152_3.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_1920_1080.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_2048_1152.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_i_h10_aa.jpg"
+          }
+        ],
+        "title_sub": "Meet Your Maker",
+        "display_title": "Ink Master",
+        "display_episode_title": "Meet Your Maker",
+        "season_num": "6",
+        "episode_num": "1",
+        "expiring": false,
+        "sentv_type": "TV Shows",
+        "series_id": 21152,
+        "title": "Ink Master",
+        "airings": [
+          {
+            "type": "catchup",
+            "expiration_date": "2015-08-18T20:00:00.000Z",
+            "dvr_expiration_date": "2015-09-15T19:00:00.000Z",
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Spike",
+            "age_rating": "TV-14",
+            "entitled": true,
+            "channel_id": 3511,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": false,
+            "block_fast_forward": true,
+            "vod_replacement_available": false,
+            "last_timecode": "00:20:26:00",
+            "badge": "coming_up",
+            "airing_id": 8298730,
+            "airing_date": "2015-08-18T19:00:00.000Z",
+            "airing_enddate": "2015-08-18T20:00:00.000Z"
+          }
+        ],
+        "airing_date": "2015-08-18T19:00:00.000Z"
+      },
+      {
+        "id": 1027694,
+        "channel": {
+          "name": "Spike",
+          "name_short": "SPIKEHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "channel_id": 3511
+        },
+        "dvr_expiring": true,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Artists join teams to create underwater ocean scenes on the back of canvas' hands; new rivalries.",
+        "series_synopsis": "Dave Navarro hosts this tattoo competition series.",
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [
+          {
+            "name": "Dave Navarro",
+            "type": "Host",
+            "cast_id": 54702
+          }
+        ],
+        "expiration_date": "2015-08-14T23:59:59.000Z",
+        "dvr_expiration_date": "2015-08-14T23:59:59.000Z",
+        "broadcast_date": "2015-07-07T00:00:00.000Z",
+        "tms_id": "EP014812090076",
+        "is_new": false,
+        "is_favorite": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/88/69120/8869120.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "upload_min_16_9",
+            "src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/21152/ink_masters_2048x1152_3.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_1920_1080.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_2048_1152.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_i_h10_aa.jpg"
+          }
+        ],
+        "title_sub": "Sink or Swim",
+        "display_title": "Ink Master",
+        "display_episode_title": "Sink or Swim",
+        "season_num": "6",
+        "episode_num": "3",
+        "expiring": true,
+        "sentv_type": "TV Shows",
+        "series_id": 21152,
+        "title": "Ink Master",
+        "airings": [
+          {
+            "type": "vod",
+            "expiration_date": "2015-08-14T23:59:59.000Z",
+            "dvr_expiration_date": "2015-08-14T23:59:59.000Z",
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Spike",
+            "age_rating": "Not Rated",
+            "entitled": true,
+            "channel_id": 3511,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": false,
+            "last_timecode": "00:20:26:00",
+            "badge": "vod",
+            "airing_id": 8108804,
+            "airing_date": "2015-06-06T20:11:09.000Z",
+            "airing_enddate": "2015-06-06T20:53:09.000Z"
+          }
+        ],
+        "airing_date": "2015-06-06T20:11:00.000Z"
+      },
+      {
+        "id": 1031088,
+        "channel": {
+          "name": "Spike",
+          "name_short": "SPIKEHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "channel_id": 3511
+        },
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Teams must create beautiful Egyptian tattoos; one artist's skull picks infuriate the competition.",
+        "series_synopsis": "Dave Navarro hosts this tattoo competition series.",
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [
+          {
+            "name": "Dave Navarro",
+            "type": "Host",
+            "cast_id": 54702
+          }
+        ],
+        "expiration_date": "2015-08-21T23:59:59.000Z",
+        "dvr_expiration_date": "2015-08-21T23:59:59.000Z",
+        "broadcast_date": "2015-07-14T00:00:00.000Z",
+        "tms_id": "EP014812090078",
+        "is_new": false,
+        "is_favorite": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/88/69120/8869120.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "upload_min_16_9",
+            "src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/21152/ink_masters_2048x1152_3.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_1920_1080.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_2048_1152.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_i_h10_aa.jpg"
+          }
+        ],
+        "title_sub": "Tut for Tat",
+        "display_title": "Ink Master",
+        "display_episode_title": "Tut for Tat",
+        "season_num": "6",
+        "episode_num": "4",
+        "expiring": false,
+        "sentv_type": "TV Shows",
+        "series_id": 21152,
+        "title": "Ink Master",
+        "airings": [
+          {
+            "type": "vod",
+            "expiration_date": "2015-08-21T23:59:59.000Z",
+            "dvr_expiration_date": "2015-08-21T23:59:59.000Z",
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Spike",
+            "age_rating": "Not Rated",
+            "entitled": true,
+            "channel_id": 3511,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": false,
+            "last_timecode": "00:20:26:00",
+            "badge": "vod",
+            "airing_id": 8180365,
+            "airing_date": "2015-06-18T00:40:17.000Z",
+            "airing_enddate": "2015-06-18T01:22:17.000Z"
+          }
+        ],
+        "airing_date": "2015-06-18T00:40:00.000Z"
+      },
+      {
+        "id": 1037909,
+        "channel": {
+          "name": "Spike",
+          "name_short": "SPIKEHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "channel_id": 3511
+        },
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Creating mind-blowing illusions using naked models; tattoos on challenging body parts.",
+        "series_synopsis": "Dave Navarro hosts this tattoo competition series.",
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [
+          {
+            "name": "Dave Navarro",
+            "type": "Host",
+            "cast_id": 54702
+          }
+        ],
+        "expiration_date": "2015-08-28T23:59:59.000Z",
+        "dvr_expiration_date": "2015-08-28T23:59:59.000Z",
+        "broadcast_date": "2015-07-28T00:00:00.000Z",
+        "tms_id": "EP014812090080",
+        "is_new": false,
+        "is_favorite": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/88/69120/8869120.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "upload_min_16_9",
+            "src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/21152/ink_masters_2048x1152_3.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_1920_1080.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_2048_1152.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_i_h10_aa.jpg"
+          }
+        ],
+        "title_sub": "Problem Parts",
+        "display_title": "Ink Master",
+        "display_episode_title": "Problem Parts",
+        "season_num": "6",
+        "episode_num": "5",
+        "expiring": false,
+        "sentv_type": "TV Shows",
+        "series_id": 21152,
+        "title": "Ink Master",
+        "airings": [
+          {
+            "type": "vod",
+            "expiration_date": "2015-08-28T23:59:59.000Z",
+            "dvr_expiration_date": "2015-08-28T23:59:59.000Z",
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Spike",
+            "age_rating": "Not Rated",
+            "entitled": true,
+            "channel_id": 3511,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": false,
+            "last_timecode": "00:20:26:00",
+            "badge": "vod",
+            "airing_id": 8270550,
+            "airing_date": "2015-07-02T04:26:39.000Z",
+            "airing_enddate": "2015-07-02T05:08:38.000Z"
+          }
+        ],
+        "airing_date": "2015-07-02T04:26:00.000Z"
+      },
+      {
+        "id": 1040956,
+        "channel": {
+          "name": "Spike",
+          "name_short": "SPIKEHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "channel_id": 3511
+        },
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Artists go head to head with a legend in the Elimination Challenge; an insanely demanding canvas.",
+        "series_synopsis": "Dave Navarro hosts this tattoo competition series.",
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [
+          {
+            "name": "Dave Navarro",
+            "type": "Host",
+            "cast_id": 54702
+          }
+        ],
+        "expiration_date": "2015-09-04T23:59:59.000Z",
+        "dvr_expiration_date": "2015-09-04T23:59:59.000Z",
+        "broadcast_date": "2015-08-04T00:00:00.000Z",
+        "tms_id": "EP014812090081",
+        "is_new": false,
+        "is_favorite": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/88/69120/8869120.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "upload_min_16_9",
+            "src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/21152/ink_masters_2048x1152_3.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_1920_1080.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_2048_1152.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_i_h10_aa.jpg"
+          }
+        ],
+        "title_sub": "Firing Lines",
+        "display_title": "Ink Master",
+        "display_episode_title": "Firing Lines",
+        "season_num": "6",
+        "episode_num": "6",
+        "expiring": false,
+        "sentv_type": "TV Shows",
+        "series_id": 21152,
+        "title": "Ink Master",
+        "airings": [
+          {
+            "type": "vod",
+            "expiration_date": "2015-09-04T23:59:59.000Z",
+            "dvr_expiration_date": "2015-09-04T23:59:59.000Z",
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Spike",
+            "age_rating": "Not Rated",
+            "entitled": true,
+            "channel_id": 3511,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": false,
+            "last_timecode": "00:20:26:00",
+            "badge": "vod",
+            "airing_id": 8302050,
+            "airing_date": "2015-07-07T11:23:02.000Z",
+            "airing_enddate": "2015-07-07T12:05:02.000Z"
+          }
+        ],
+        "airing_date": "2015-07-07T11:23:00.000Z"
+      },
+      {
+        "id": 1044133,
+        "channel": {
+          "name": "Spike",
+          "name_short": "SPIKEHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "channel_id": 3511
+        },
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Artists work together to transform canvases into wild animals; an unexpected twist.",
+        "series_synopsis": "Dave Navarro hosts this tattoo competition series.",
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [
+          {
+            "name": "Dave Navarro",
+            "type": "Host",
+            "cast_id": 54702
+          }
+        ],
+        "expiration_date": "2015-08-15T05:00:00.000Z",
+        "dvr_expiration_date": "2015-09-09T05:00:00.000Z",
+        "broadcast_date": "2015-08-11T00:00:00.000Z",
+        "tms_id": "EP014812090082",
+        "is_new": false,
+        "is_favorite": true,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_600x450_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/88/69120/8869120.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "upload_min_16_9",
+            "src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/21152/ink_masters_2048x1152_3.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_1920_1080.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://epg-image.totsuko.tv/epg-images/series/21152/ink_masters_2048x1152_3_HERO_2048_1152.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://epg-image.totsuko.tv/epg-images/http://spe1.tmsimg.com/assets/p11736871_i_h10_aa.jpg"
+          }
+        ],
+        "title_sub": "Predator/Prey",
+        "display_title": "Ink Master",
+        "display_episode_title": "Predator/Prey",
+        "season_num": "6",
+        "episode_num": "7",
+        "expiring": true,
+        "sentv_type": "TV Shows",
+        "series_id": 21152,
+        "title": "Ink Master",
+        "airings": [
+          {
+            "type": "catchup",
+            "expiration_date": "2015-08-15T05:00:00.000Z",
+            "dvr_expiration_date": "2015-09-09T05:00:00.000Z",
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/3511/spike_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Spike",
+            "age_rating": "TV-14",
+            "entitled": true,
+            "channel_id": 3511,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "vod_replacement_available": false,
+            "last_timecode": "00:20:26:00",
+            "badge": "catchup",
+            "airing_id": 8260372,
+            "airing_date": "2015-08-12T05:00:00.000Z",
+            "airing_enddate": "2015-08-12T06:00:00.000Z"
+          }
+        ],
+        "airing_date": "2015-08-12T05:00:00.000Z"
+      }
+    ]
+  },
+  "header": {
+    "time_stamp": "2015-08-12T20:43:46.301Z",
+    "request_id": null,
+    "error": null,
+    "request": "/v2/details/items/program/1044133/episodes_no_default/offset/0/size/20/expiration_filter/2015-08-12T20:43:45Z",
+    "status": "OK"
+  }
+}

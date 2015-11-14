@@ -15,3 +15,10 @@
 /libpeerconnection.log
 npm-debug.log
 testem.log
+/bits
+*.DS_Store
+*.tern-project
+/.idea
+/public/mock
+/jsconfig.json
+/config/reqpayload.local.js

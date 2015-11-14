@@ -1,0 +1,16 @@
+{
+  "header": {
+    "request"       : "/media-framework/media/v2.0/stream/airing/7588867",
+    "request_id"    : "341dd900-bab5-4ec5-925a-5cedf5fdd527",
+    "errors"        : "1201",
+    "status"        : "ERROR",
+    "time_stamp"    : "2015-06-23T00:13:24.221Z"
+  },
+  "body": {
+    "video"                             : "null",
+    "program_start_time"                : "null",
+    "program_end_time"                  : "null",
+    "complete_playlist_available"       : false,
+    "block_fast_forward"                : false
+  }
+}

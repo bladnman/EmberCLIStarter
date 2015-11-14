@@ -1,0 +1,13 @@
+{
+  "body": null,
+  "header": {
+    "request"       : "/v2//browse/items/favorites/filter/shows/sort/date/offset/0/size/10",
+    "status"        : "ERROR",
+    "time_stamp"    : "2015-06-16T17:41:35.512Z",
+    "request_id"    : null,
+    "error"         : {
+      "message"     : "There is a problem with your access.  Please close the application and then sign in again to ensure that your most recent information is used to access your subscription service.   (Error 1007)",
+      "code"        : 1007
+    }
+  }
+}

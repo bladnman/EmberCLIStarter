@@ -1,0 +1,13 @@
+{
+  "body": {
+    "items": [],
+    "total_results": 21
+  },
+  "header": {
+    "error": null,
+    "request": "/v2/browse/items/favorites/filter/shows/sort/date/offset/0/size/6",
+    "status": "OK",
+    "time_stamp": "2015-08-03T18:11:39.512Z",
+    "request_id": null
+  }
+}

@@ -1,0 +1,1348 @@
+{
+	"body": {
+		"items": [
+			{
+				"id": 815543,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7968714,
+						"airing_date": "2015-06-28T13:30:00.000Z",
+						"airing_enddate": "2015-06-28T14:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/1699/mtv2_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "MTV2",
+						"age_rating": "TV-PG",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": false,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": false,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 1699,
+						"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+						"expiration_date": "2015-06-28T14:00:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1699/mtv2_NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1699/mtv2_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1699/mtv2_NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1699/mtv2_SIZE_SONY_CHANNEL_LOGO.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:30:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 22088,
+				"title": "Boy Meets World",
+				"title_sub": "The Provider",
+				"display_title": "Boy Meets World",
+				"display_episode_title": "The Provider",
+				"season_num": "7",
+				"episode_num": "13",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+				"broadcast_date": "2000-01-07T00:00:00.000Z",
+				"tms_id": "EP000838770151",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "The couple argues when Topanga gets a better job than Cory; Eric finds a lucky penny.",
+				"series_synopsis": "With the help of true love Topanga, best friend Shawn and teacher Mr. Feeny, Cory Matthews juggles school, friends and romance. The series, a popular Friday night staple on ABC for seven seasons, began with Cory in the sixth grade and follows him and his entourage through their college years.",
+				"genres": [
+					{
+						"genre": "Comedy",
+						"genre_id": 54
+					}
+				],
+				"cast": [
+					{
+						"name": "Matthew Lawrence",
+						"type": "Actor",
+						"cast_id": 57407
+					},
+					{
+						"name": "Danielle Fishel",
+						"type": "Actor",
+						"cast_id": 58363
+					},
+					{
+						"name": "Ben Savage",
+						"type": "Actor",
+						"cast_id": 58425
+					},
+					{
+						"name": "William Daniels",
+						"type": "Actor",
+						"cast_id": 58426
+					},
+					{
+						"name": "William Russ",
+						"type": "Actor",
+						"cast_id": 58427
+					},
+					{
+						"name": "Betsy Randle",
+						"type": "Actor",
+						"cast_id": 58428
+					},
+					{
+						"name": "Will Friedle",
+						"type": "Actor",
+						"cast_id": 58429
+					},
+					{
+						"name": "Rider Strong",
+						"type": "Actor",
+						"cast_id": 58431
+					},
+					{
+						"name": "Lindsay Ridgeway",
+						"type": "Actor",
+						"cast_id": 59610
+					},
+					{
+						"name": "Trina McGee-Davis",
+						"type": "Actor",
+						"cast_id": 59611
+					}
+				],
+				"expiration_date": "2015-06-28T14:00:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "tms_1080_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/p184144_b_v9_ac.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1440_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/p184144_b_h9_ac.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/p184144_i_h10_ab.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/184144.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/184144.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/184144.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/184144.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/p184144_i_h10_ab.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4144/p184144_i_h10_ab.jpg"
+					}
+				]
+			},
+			{
+				"id": 900362,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7965239,
+						"airing_date": "2015-06-28T13:30:00.000Z",
+						"airing_enddate": "2015-06-28T14:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/25164/cartoon_network2_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "Cartoon Network",
+						"age_rating": "TV-PG",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": false,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": true,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 25164,
+						"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+						"expiration_date": "2015-06-28T14:45:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25164/cartoon_network2_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25164/cartoon_network2_NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25164/cartoon_network2_SIZE_SONY_CHANNEL_LOGO.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25164/cartoon_network2_NETWORK_MEDIUM_80_60.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:30:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 20386,
+				"title": "Teen Titans Go!",
+				"title_sub": "Love Monsters; Baby Hands",
+				"display_title": "Teen Titans Go!",
+				"display_episode_title": "Love Monsters; Baby Hands",
+				"season_num": "2",
+				"episode_num": "5",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+				"broadcast_date": "2014-09-11T00:00:00.000Z",
+				"tms_id": "EP017123260114",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "Starfire opens a box containing the Twin Destroyers of Azarath; Brother Blood erases memories.",
+				"series_synopsis": "This follow-up to the popular \"Teen Titans\" series takes a more comedic look at the superheroes, showing what life is like for the teens when their capes come off. Funny things happen to Robin, Starfire, Raven, Beast Boy and Cyborg between saving the world and being regular teens, living together without adult supervision. The teens, in their ordinary lives, deal with the everyday issues of adolescence that include such important things as having staring contests to determine who does the laundry and going on a series of quests to construct the perfect sandwich. But, of course, the heroes still fight crime in Jump City when the need arises. Whatever the situation, they're always ready for an adventure -- inside the house or out of it.",
+				"genres": [
+					{
+						"genre": "Action & Adventure",
+						"genre_id": 49
+					},
+					{
+						"genre": "Animation",
+						"genre_id": 50
+					},
+					{
+						"genre": "Kids",
+						"genre_id": 70
+					}
+				],
+				"cast": [],
+				"expiration_date": "2015-06-28T14:45:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/98/43808/9843808.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/98/43808/9843808.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/98/43808/9843808.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/98/43808/9843808.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "upload_min_16_9",
+						"src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/20386/toon_ttg_1920x1080.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/20386/toon_ttg_1920x1080_HERO_1920_1080.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/20386/toon_ttg_1920x1080_HERO_2048_1152.jpg"
+					}
+				]
+			},
+			{
+				"id": 151686,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7964684,
+						"airing_date": "2015-06-28T13:30:00.000Z",
+						"airing_enddate": "2015-06-28T14:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/5984/nickelodeon_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "Nickelodeon",
+						"age_rating": "TV-Y7",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": false,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": false,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 5984,
+						"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+						"expiration_date": "2015-06-28T14:00:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/5984/nickelodeon_NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/5984/nickelodeon_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/5984/nickelodeon_NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/5984/nickelodeon_SIZE_SONY_CHANNEL_LOGO.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:30:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 22282,
+				"title": "SpongeBob SquarePants",
+				"title_sub": "No Hat for Pat; Toy Store of Doom",
+				"display_title": "SpongeBob SquarePants",
+				"display_episode_title": "No Hat for Pat; Toy Store of Doom",
+				"season_num": "6",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+				"broadcast_date": "2009-07-19T00:00:00.000Z",
+				"tms_id": "EP003077660385",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "SpongeBob and Patrick are accidentally locked in a toy store after it closes.",
+				"series_synopsis": "A square yellow sponge named SpongeBob SquarePants lives in a pineapple with his pet snail, Gary, in the city of Bikini Bottom on the floor of the Pacific Ocean. He works as a fry cook at the Krusty Krab. During his time off, SpongeBob has a knack for attracting trouble with his starfish best friend, Patrick. Arrogant octopus Squidward Tentacles, SpongeBob's neighbor, dislikes SpongeBob because of his childlike behavior.",
+				"genres": [
+					{
+						"genre": "Animation",
+						"genre_id": 50
+					},
+					{
+						"genre": "Comedy",
+						"genre_id": 54
+					},
+					{
+						"genre": "Kids",
+						"genre_id": 70
+					}
+				],
+				"cast": [],
+				"expiration_date": "2015-06-28T14:00:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/22282/SB_SONY_VUE_600x450_STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/22282/SB_SONY_VUE_600x450_SIZE_SONY_PROGRAM_TILE.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/22282/SB_SONY_VUE_600x450_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4854/184854.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "upload_min_16_9",
+						"src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/22282/spongebob_2048x1152.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/22282/spongebob_2048x1152_HERO_1920_1080.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/22282/spongebob_2048x1152_HERO_2048_1152.jpg"
+					}
+				]
+			},
+			{
+				"id": 813677,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7962474,
+						"airing_date": "2015-06-28T13:00:00.000Z",
+						"airing_enddate": "2015-06-28T14:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/42/642/42642.logo.png",
+						"channel_name": "TNT",
+						"age_rating": "TV-14",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": false,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": true,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 24998,
+						"dvr_expiration_date": "2015-07-26T13:00:00.000Z",
+						"expiration_date": "2015-06-28T15:30:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/42/642/42642.NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/42/642/42642.logo.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/42/642/42642.NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/42/642/42642.NETWORK_SMALL_58_44.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:00:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 22062,
+				"title": "Law & Order",
+				"title_sub": "Prejudice",
+				"display_title": "Law & Order",
+				"display_episode_title": "Prejudice",
+				"season_num": "12",
+				"episode_num": "10",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:00:00.000Z",
+				"broadcast_date": "2001-12-12T00:00:00.000Z",
+				"tms_id": "EP000176170284",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "A black publishing executive is apparently killed in a dispute over a taxi cab.",
+				"series_synopsis": "Filmed on location in New York, the drama showcases the sometimes-complex process of determining guilt or innocence, while lives hang in the balance. Often inspired by the latest headlines, the plots highlight legal, ethical or personal dilemmas to which people can relate.",
+				"genres": [
+					{
+						"genre": "Drama",
+						"genre_id": 56
+					}
+				],
+				"cast": [
+					{
+						"name": "Steven Hill",
+						"type": "Actor",
+						"cast_id": 56905
+					},
+					{
+						"name": "S. Epatha Merkerson",
+						"type": "Actor",
+						"cast_id": 56907
+					},
+					{
+						"name": "Jerry Orbach",
+						"type": "Actor",
+						"cast_id": 56909
+					},
+					{
+						"name": "Sam Waterston",
+						"type": "Actor",
+						"cast_id": 56910
+					},
+					{
+						"name": "Benjamin Bratt",
+						"type": "Actor",
+						"cast_id": 56911
+					},
+					{
+						"name": "Angie Harmon",
+						"type": "Actor",
+						"cast_id": 56913
+					}
+				],
+				"expiration_date": "2015-06-28T15:30:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "tms_1080_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/p183983_b_v9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1440_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/p183983_b_h9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/183983.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/183983.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/183983.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/183983.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/183983.HERO_1920_1080.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/3983/183983.HERO_2048_1152.jpg"
+					}
+				]
+			},
+			{
+				"id": 945727,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7959709,
+						"airing_date": "2015-06-28T13:00:00.000Z",
+						"airing_enddate": "2015-06-28T14:30:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "CBS 2",
+						"age_rating": "Not Rated",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": true,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": false,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 396,
+						"dvr_expiration_date": "2015-07-26T13:00:00.000Z",
+						"expiration_date": "2015-06-28T14:30:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_SIZE_SONY_CHANNEL_LOGO.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_NETWORK_SMALL_58_44.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:00:00.000Z",
+				"sentv_type": "News",
+				"series_id": 22147,
+				"title": "CBS News Sunday Morning",
+				"title_sub": "Love Matters",
+				"display_title": "CBS News Sunday Morning",
+				"display_episode_title": "Love Matters",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:00:00.000Z",
+				"broadcast_date": "2015-02-15T00:00:00.000Z",
+				"tms_id": "EP000191281187",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "Couples who met young, split up and then found each other again later in life.",
+				"series_synopsis": "The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for \"CBS News Sunday Morning.\" A morning talk show, this program airs at a different pace, and focuses much of its attention on the performing arts. After a quick update of the day's news and national weather, correspondents offer longer-length segments on a variety of topics, from architecture to ballet to music to pop culture to politics. Each broadcast typically closes with a minute-long scene from nature and a folksy farewell from anchor Charles Osgood.",
+				"genres": [
+					{
+						"genre": "Newsmagazine",
+						"genre_id": 76
+					},
+					{
+						"genre": "Talk Shows",
+						"genre_id": 88
+					}
+				],
+				"cast": [
+					{
+						"name": "Jerry Seinfeld",
+						"type": "Guest",
+						"cast_id": 55024
+					}
+				],
+				"expiration_date": "2015-06-28T14:30:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "tms_1080_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/p185497_b_v9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1440_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/p185497_b_h9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/p185497_i_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/185497.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/185497.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/185497.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/185497.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/p185497_i_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5497/p185497_i_h10_aa.jpg"
+					}
+				]
+			},
+			{
+				"id": 252897,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7965856,
+						"airing_date": "2015-06-28T13:36:00.000Z",
+						"airing_enddate": "2015-06-28T14:11:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "Comedy Central",
+						"age_rating": "TV-MA",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": false,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": false,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 12732,
+						"dvr_expiration_date": "2015-07-26T13:36:00.000Z",
+						"expiration_date": "2015-06-28T14:11:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_SIZE_SONY_CHANNEL_LOGO.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_NETWORK_MEDIUM_80_60.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:36:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 20580,
+				"title": "South Park",
+				"title_sub": "Red Hot Catholic Love",
+				"display_title": "South Park",
+				"display_episode_title": "Red Hot Catholic Love",
+				"season_num": "6",
+				"episode_num": "9",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:36:00.000Z",
+				"broadcast_date": "2002-07-03T00:00:00.000Z",
+				"tms_id": "EP002298270094",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "Scandal impacts church attendance in South Park.",
+				"series_synopsis": "The animated series is not for children. In fact, its goal seems to be to offend as many as possible as it presents the adventures of Stan, Kyle, Kenny and Cartman. The show has taken on Saddam Hussein, Osama bin Laden, politicians of every stripe and self-important celebrities. Oh, and Kenny is killed in many episodes.",
+				"genres": [
+					{
+						"genre": "Animation",
+						"genre_id": 50
+					},
+					{
+						"genre": "Comedy",
+						"genre_id": 54
+					}
+				],
+				"cast": [],
+				"expiration_date": "2015-06-28T14:11:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "tms_1080_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/p184338_b_v9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1440_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/p184338_b_h9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/p184338_i_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/184338.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/184338.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/184338.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/184338.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/p184338_i_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/4338/p184338_i_h10_aa.jpg"
+					}
+				]
+			},
+			{
+				"id": 974115,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7963321,
+						"airing_date": "2015-06-28T13:30:00.000Z",
+						"airing_enddate": "2015-06-28T14:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/25075/HGTV_logo_edited-1_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "HGTV",
+						"age_rating": "TV-G",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": false,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": true,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 25075,
+						"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+						"expiration_date": "2015-07-01T13:30:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25075/HGTV_logo_edited-1_SIZE_SONY_CHANNEL_LOGO.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25075/HGTV_logo_edited-1_NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25075/HGTV_logo_edited-1_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25075/HGTV_logo_edited-1_NETWORK_LARGE_440_330.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:30:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 21874,
+				"title": "Flea Market Flip",
+				"title_sub": "Mother-Daughter Showdown",
+				"display_title": "Flea Market Flip",
+				"display_episode_title": "Mother-Daughter Showdown",
+				"season_num": "2",
+				"episode_num": "15",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+				"broadcast_date": "2013-06-07T00:00:00.000Z",
+				"tms_id": "EP015409850021",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "Mother-daughter duos; Rose Bowl Flea Market in Pasadena, Calif.",
+				"series_synopsis": "There are always diamonds to be mined at yard sales. The trick, of course, is finding them. The competitors in \"Flea Market Flip\" are asked to perform that trick, then they're challenged to refurbish or reinvent the items they've purchased in the hope of reselling them for a profit. Grouped in teams, the contestants in each episode are given a budget of about $500 to hunt for project pieces with potential. The team that does the best job of flipping trash for cash wins all of the profits earned that day. Passionate flea market fan Lara Spencer, an anchor on \"Good Morning America,\" hosts.",
+				"genres": [
+					{
+						"genre": "Home & Garden",
+						"genre_id": 67
+					}
+				],
+				"cast": [
+					{
+						"name": "Lara Spencer",
+						"type": "Host",
+						"cast_id": 55888
+					}
+				],
+				"expiration_date": "2015-07-01T13:30:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "tms_1080_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/p9128989_b_v9_ab.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/9128989.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1440_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/p9128989_l_h9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/9128989.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/9128989.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/9128989.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/p9128989_b_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/p9128989_b_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/91/28989/p9128989_b_h10_aa.jpg"
+					}
+				]
+			},
+			{
+				"id": 806596,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7969633,
+						"airing_date": "2015-06-28T12:30:00.000Z",
+						"airing_enddate": "2015-06-28T15:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/25182/amc_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "AMC",
+						"age_rating": "TV-PG",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": true,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": false,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 25182,
+						"dvr_expiration_date": "2015-07-26T12:30:00.000Z",
+						"expiration_date": "2015-06-28T15:00:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25182/amc_440x330_NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25182/amc_440x330_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25182/amc_440x330_NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/25182/amc_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T12:30:00.000Z",
+				"sentv_type": "Movies",
+				"title": "Lara Croft Tomb Raider: The Cradle of Life",
+				"display_title": "Lara Croft Tomb Raider: The Cradle of Life",
+				"display_episode_title": "Lara Croft Tomb Raider: The Cradle of Life",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T12:30:00.000Z",
+				"broadcast_date": "2003-07-25T00:00:00.000Z",
+				"tms_id": "MV001357730000",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "A globe-trotter (Angelina Jolie) must find Pandora's box before a maniacal scientist (Ciarán Hinds) can harness its power for world domination.",
+				"genres": [
+					{
+						"genre": "Action & Adventure",
+						"genre_id": 49
+					}
+				],
+				"cast": [
+					{
+						"name": "Ciarán Hinds",
+						"type": "Actor",
+						"cast_id": 55318
+					},
+					{
+						"name": "Noah Taylor",
+						"type": "Actor",
+						"cast_id": 55334
+					},
+					{
+						"name": "Djimon Hounsou",
+						"type": "Actor",
+						"cast_id": 58219
+					},
+					{
+						"name": "Gerard Butler",
+						"type": "Actor",
+						"cast_id": 58806
+					},
+					{
+						"name": "Angelina Jolie",
+						"type": "Actor",
+						"cast_id": 60914
+					},
+					{
+						"name": "Til Schweiger",
+						"type": "Actor",
+						"cast_id": 65328
+					},
+					{
+						"name": "Christopher Barrie",
+						"type": "Actor",
+						"cast_id": 68307
+					},
+					{
+						"name": "Simon Yam",
+						"type": "Actor",
+						"cast_id": 77496
+					},
+					{
+						"name": "Terence Yin",
+						"type": "Actor",
+						"cast_id": 77497
+					},
+					{
+						"name": "Jan de Bont",
+						"type": "Director",
+						"cast_id": 76922
+					}
+				],
+				"expiration_date": "2015-06-28T15:00:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "tms_1080_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/p32097_i_v9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_960_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/p32097_i_v8_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/MV001357730000.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/MV001357730000.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/MV001357730000.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/MV001357730000.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/MV001357730000.HERO_1920_1080.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/program/MV/001357730000/MV001357730000.HERO_2048_1152.jpg"
+					}
+				]
+			},
+			{
+				"id": 185375,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 8022807,
+						"airing_date": "2015-06-28T13:30:00.000Z",
+						"airing_enddate": "2015-06-28T14:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/2754/science_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "Science",
+						"age_rating": "TV-G",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": true,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": true,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 2754,
+						"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+						"expiration_date": "2015-07-01T13:30:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/2754/science_NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/2754/science_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/2754/science_NETWORK_LARGE_440_330.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/2754/science_SIZE_SONY_CHANNEL_LOGO.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:30:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 21966,
+				"title": "How It's Made",
+				"display_title": "How It's Made",
+				"display_episode_title": "How It's Made",
+				"season_num": "9",
+				"episode_num": "8",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+				"broadcast_date": "2007-10-10T00:00:00.000Z",
+				"tms_id": "EP004154020184",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "Swords; pontoons; grandfather clocks; fuses.",
+				"series_synopsis": "A look behind the scenes at how everyday things are manufactured. Typically each episode includes three to four products featured, with a mix consisting of common items such as jeans, aluminum foil and cereal, and less predictable ones like wax figurines, braille typewriters and pinball machines.",
+				"genres": [
+					{
+						"genre": "Science & Technology",
+						"genre_id": 85
+					}
+				],
+				"cast": [
+					{
+						"name": "Lynne Adams",
+						"type": "Host",
+						"cast_id": 59689
+					}
+				],
+				"expiration_date": "2015-07-01T13:30:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "upload_min_4_3",
+						"src": "http://epg-image.totsuko.tv/epg-images//epgdata/epg-images/series/21966/how_its_made.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/21966/how_its_made_STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/21966/how_its_made_SIZE_SONY_PROGRAM_TILE.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/21966/how_its_made_SIZE_SONY_PROGRAM_TILE_SMALL.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5509/185509.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5509/p185509_i_h10_ab.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/18/5509/p185509_i_h10_ab.jpg"
+					}
+				]
+			},
+			{
+				"id": 860454,
+				"airings": [
+					{
+						"type": "catchup",
+						"airing_id": 7969291,
+						"airing_date": "2015-06-28T13:30:00.000Z",
+						"airing_enddate": "2015-06-28T14:00:00.000Z",
+						"channel_logo": "http://epg-image.totsuko.tv/epg-images/channel/1449/nick_jr_SIZE_SONY_CHANNEL_LOGO.png",
+						"channel_name": "Nick Jr.",
+						"age_rating": "TV-Y",
+						"entitled": true,
+						"restrict_mobile": false,
+						"restrict_out_of_home": false,
+						"restrict_dvr_out_of_home": true,
+						"complete_playlist_available": false,
+						"block_fast_forward": true,
+						"vod_replacement_available": false,
+						"channel_id": 1449,
+						"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+						"expiration_date": "2015-06-28T14:00:00.000Z",
+						"urls": [
+							{
+								"type": "IMAGE",
+								"size": "logo",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1449/nick_jr_SIZE_SONY_CHANNEL_LOGO.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_medium_80_60",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1449/nick_jr_NETWORK_MEDIUM_80_60.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_small_58_44",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1449/nick_jr_NETWORK_SMALL_58_44.png"
+							},
+							{
+								"type": "IMAGE",
+								"size": "network_large_440_330",
+								"src": "http://epg-image.totsuko.tv/epg-images/channel/1449/nick_jr_NETWORK_LARGE_440_330.png"
+							}
+						]
+					}
+				],
+				"airing_date": "2015-06-28T13:30:00.000Z",
+				"sentv_type": "TV Shows",
+				"series_id": 20482,
+				"title": "Bubble Guppies",
+				"title_sub": "Come to Your Senses!",
+				"display_title": "Bubble Guppies",
+				"display_episode_title": "Come to Your Senses!",
+				"season_num": "3",
+				"episode_num": "14",
+				"expiring": true,
+				"dvr_expiration_date": "2015-07-26T13:30:00.000Z",
+				"broadcast_date": "2014-05-22T00:00:00.000Z",
+				"tms_id": "EP013642490067",
+				"is_new": false,
+				"dvr_expiring": false,
+				"playable": true,
+				"in_custom_collections": [],
+				"synopsis": "When Nonny breaks his glasses, he must use his other senses to reach the glasses store.",
+				"series_synopsis": "\"Bubble Guppies\" takes the phrase \"school of fish\" literally as fish-tailed preschoolers attend school in an underwater classroom. Children learn about topics such as science, math and literacy through original music. Among the characters featured on the show are turbocharged Gil, leader Molly and drama queen Deema.",
+				"genres": [
+					{
+						"genre": "Animation",
+						"genre_id": 50
+					},
+					{
+						"genre": "Educational",
+						"genre_id": 57
+					},
+					{
+						"genre": "Kids",
+						"genre_id": 70
+					}
+				],
+				"cast": [],
+				"expiration_date": "2015-06-28T14:00:00.000Z",
+				"urls": [
+					{
+						"type": "IMAGE",
+						"size": "tms_1080_1440",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/p8443142_b_v9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1440_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/p8443142_b_h9_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tms_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/p8443142_i_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "portrait_396_528",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/8443142.PORTRAIT_396_528.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "standard_600_450",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/8443142.STANDARD_600_450.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/8443142.tile.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "tile_small",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/8443142.tile_small.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_1920_1080",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/p8443142_i_h10_aa.jpg"
+					},
+					{
+						"type": "IMAGE",
+						"size": "hero_2048_1152",
+						"src": "http://epg-image.totsuko.tv/epg-images/series/84/43142/p8443142_i_h10_aa.jpg"
+					}
+				]
+			}
+		],
+		"total_results": 72
+	},
+	"header": {
+		"error": null,
+		"request": "/v2/browse/items/now_playing/filter/all/sort/channeltype/offset/0/size/10",
+		"status": "OK",
+		"time_stamp": "2015-06-28T13:53:50.953Z",
+		"request_id": "11"
+	}
+}

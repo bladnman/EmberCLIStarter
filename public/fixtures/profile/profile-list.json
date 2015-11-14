@@ -1,0 +1,35 @@
+{
+  "body": {
+    "uuid": "E70FB4320043E4011767C0DADCD2E28ED599102318081ADC7C4EC7B514B9429A",
+    "out_of_home": false,
+    "profiles": [{
+      "date_of_birth": "1942-10-12T07:00:00Z",
+      "profile_name": "destro",
+      "profile_id": 157878
+    }, {
+      "date_of_birth": "1942-10-12T07:00:00Z",
+      "primary_profile": false,
+      "profile_name": "wwwwwwwwwwwwwwww",
+      "profile_id": 157879
+    }, {
+      "date_of_birth": "1942-10-12T07:00:00Z",
+      "primary_profile": false,
+      "profile_name": "@@@@@@@@@@@@@@@",
+      "profile_id": 157880
+    }],
+    "homeZipCode": "10011",
+    "channel_restrict": [],
+    "rating_restrict": [],
+    "launch_program": {
+      "uri": "http://sho-showtime-pacific.live.sonytv.adaptive.level3.net/PROD02/sony/SHO_SHOWTIME_PACIFIC/live/master_wired.m3u8",
+      "airing_id": 8680719
+    }
+  },
+  "header": {
+    "error": null,
+    "time_stamp": "2015-10-16T02:18:08.193Z",
+    "request_id": null,
+    "request": "/sentv_user_ext/ws/v2/profile/ids",
+    "status": "OK"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "body": {
+    "program": {
+      "id": 4686,
+      "dvr_expiring": false,
+      "playable": false,
+      "keywords": [],
+      "in_custom_collections": [],
+      "synopsis": "NBC 4",
+      "genres": [],
+      "cast": [],
+      "is_new": false,
+      "has_collections": false,
+      "vod_only": false,
+      "themes": [],
+      "subjects": [],
+      "generals": [],
+      "expiring": false,
+      "airings": [],
+      "moods": [],
+      "urls": [
+        {
+          "type": "IMAGE",
+          "size": "network_large_440_330",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/4686/nbc_NETWORK_LARGE_440_330.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "logo",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/4686/nbc_SIZE_SONY_CHANNEL_LOGO.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_medium_80_60",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/4686/nbc_NETWORK_MEDIUM_80_60.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_small_58_44",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/4686/nbc_NETWORK_SMALL_58_44.png"
+        }
+      ],
+      "sentv_type": "channel",
+      "title": "NBC 4"
+    }
+  },
+  "header": {
+    "error": null,
+    "time_stamp": "2015-08-10T21:17:47.042Z",
+    "request_id": null,
+    "request": "/v2/channel/4686",
+    "status": "OK"
+  }
+}

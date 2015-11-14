@@ -1,0 +1,54 @@
+{
+  "body": {
+    "program": {
+      "id": 12732,
+      "sentv_type": "channel",
+      "title": "Comedy Central",
+      "subjects": [],
+      "generals": [],
+      "moods": [],
+      "urls": [
+        {
+          "type": "IMAGE",
+          "size": "network_small_58_44",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_NETWORK_SMALL_58_44.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_large_440_330",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_NETWORK_LARGE_440_330.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "logo",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_SIZE_SONY_CHANNEL_LOGO.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_medium_80_60",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/12732/ComCen_2-line-Logo-440x330_WHT_NETWORK_MEDIUM_80_60.png"
+        }
+      ],
+      "airings": [],
+      "synopsis": "Comedy Central",
+      "genres": [],
+      "cast": [],
+      "is_new": false,
+      "has_collections": false,
+      "vod_only": false,
+      "themes": [],
+      "expiring": false,
+      "dvr_expiring": false,
+      "playable": false,
+      "keywords": [],
+      "in_custom_collections": []
+    }
+  },
+  "header": {
+    "error": null,
+    "request": "/v2/channel/12732",
+    "status": "OK",
+    "time_stamp": "2015-08-10T21:22:24.198Z",
+    "request_id": null
+  }
+}

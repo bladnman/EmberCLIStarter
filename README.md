@@ -25,6 +25,19 @@ You will need the following things properly installed on your computer.
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
+### ReqPayload (static)
+
+During local development you will want to be able to load Destro in your browser. To do so you need 
+to copy the `/config/reqpayload.temaplate.js` file to `/config/reqpayload.local.js`. You
+will find instructions inside of the template file.
+
+After this you can restart your local server with `ember server` and then skip passed authorization 
+by going to the url: [http://localhost:4200/profiles](http://localhost:4200/profiles)
+
+
+### options ###
+* --live: use live data (instead of fixtures)
+
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details

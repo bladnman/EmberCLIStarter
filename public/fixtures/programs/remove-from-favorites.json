@@ -1,0 +1,9 @@
+{
+  "header": {
+    "error": null,
+    "request": "/sentv_user_action/ws/v2/favorite",
+    "status": "OK",
+    "time_stamp": "2015-07-25T07:07:29.784Z",
+    "request_id": null
+  }
+}

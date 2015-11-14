@@ -1,0 +1,17 @@
+{
+  "header": {
+    "request": "/media-framework/media/v2.0/stream/favorite/7883154",
+    "request_id": "e1227d46-bad7-4e29-8979-86bd19326c95",
+    "errors": "NONE",
+    "status": "OK",
+    "time_stamp": "2015-07-09T23:43:47.537Z"
+  },
+  "body": {
+    "video": "http://playlist.mlbam.tv/playlist/content/m3u8/7883154.m3u8?userId=797",
+    "stream_type": "dvr",
+    "program_start_time": "2015-06-13T12:30:00.000Z",
+    "program_end_time": "2015-06-13T14:30:00.000Z",
+    "complete_playlist_available": false,
+    "block_fast_forward": true
+  }
+}

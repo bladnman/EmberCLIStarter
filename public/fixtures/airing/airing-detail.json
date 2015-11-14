@@ -1,0 +1,134 @@
+{
+	"body": {
+		"program": {
+			"display_title"             : "Let's Make a Deal",
+			"display_episode_title"     : "Let's Make a Deal",
+			"id"                        : 980753,
+			"airing_date"               : "2015-04-21T14:00:00.000Z",
+			"sentv_type"                : "TV Shows",
+			"series_id"                 : 21693,
+			"title"                     : "Let's Make a Deal",
+			"broadcast_date"            : "2015-04-21T00:00:00.000Z",
+			"tms_id"                    : "EP011761320649",
+			"is_new"                    : false,
+			"expiring"                  : true,
+			"dvr_expiring"              : false,
+			"playable"                  : true,
+			"expiration_date"           : "2015-04-21T15:00:00.000Z",
+			"dvr_expiration_date"       : "2015-05-19T14:00:00.000Z",
+			"in_custom_collections"     : [],
+			"synopsis"                  : "Costumed contestants compete for cash and prizes.",
+			"series_synopsis"           : "CBS adds to its daytime game show lineup with an updated version of the 1960s classic. Hosted by Wayne Brady, costumed contestants will still compete for cash and prizes. And Monty Hall, arguably the best-known host of the earlier version of the show, is listed among the new show's creative consultants.",
+			"genres"										: [
+				{
+					"genre_id": 63,
+					"genre": "Game Show"
+				}
+			],
+			"urls"											: [
+				{
+					"type": "IMAGE",
+					"size": "tms_1080_1440",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/p7805542_b_v9_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tms_1440_1080",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/p7805542_b_h9_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tms_1920_1080",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/p7805542_i_h10_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "portrait_396_528",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/7805542.PORTRAIT_396_528.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "standard_600_450",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/7805542.STANDARD_600_450.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tile",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/7805542.tile.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "tile_small",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/7805542.tile_small.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "hero_1920_1080",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/p7805542_i_h10_aa.jpg"
+				},
+				{
+					"type": "IMAGE",
+					"size": "hero_2048_1152",
+					"src": "http://epg-image.totsuko.tv/epg-images/series/78/05542/p7805542_i_h10_aa.jpg"
+				}
+			],
+			"cast"											: [
+				{
+					"name": "Wayne Brady",
+					"type": "Host",
+					"cast_id": 54712
+				}
+			],
+			"airings"										: [
+				{
+					"type"                              : "catchup",
+					"entitled"                          : true,
+					"restrict_mobile"                   : false,
+					"restrict_out_of_home"              : true,
+					"restrict_dvr_out_of_home"          : true,
+					"complete_playlist_available"       : false,
+					"block_fast_forward"                : true,
+					"airing_id"                         : 7568832,
+					"airing_date"                       : "2015-04-21T14:00:00.000Z",
+					"airing_enddate"                    : "2015-04-21T15:00:00.000Z",
+					"channel_logo"                      : "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_SIZE_SONY_CHANNEL_LOGO.png",
+					"channel_name"                      : "CBS 2",
+					"age_rating"                        : "TV-PG",
+					"channel_id"                        : 396,
+					"expiration_date"                   : "2015-04-21T15:00:00.000Z",
+					"dvr_expiration_date"               : "2015-05-19T14:00:00.000Z",
+					"vod_replacement_available"         : false,
+					"urls"															: [
+						{
+							"type": "IMAGE",
+							"size": "network_large_440_330",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_NETWORK_LARGE_440_330.png"
+						},
+						{
+							"type": "IMAGE",
+							"size": "logo",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_SIZE_SONY_CHANNEL_LOGO.png"
+						},
+						{
+							"type": "IMAGE",
+							"size": "network_medium_80_60",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_NETWORK_MEDIUM_80_60.png"
+						},
+						{
+							"type": "IMAGE",
+							"size": "network_small_58_44",
+							"src": "http://epg-image.totsuko.tv/epg-images/channel/396/cbs_wcbs_newyork_NETWORK_SMALL_58_44.png"
+						}
+					]
+				}
+			]
+		}
+	},
+	"header": {
+		"error": null,
+		"request": "/v2/program/980753/airing/7568832",
+		"status": "OK",
+		"time_stamp": "2015-05-14T07:12:27.746Z",
+		"request_id": null
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "path"    : "videoplayer",
+  "type"    : "MESSAGE",
+  "payload": {
+    "position"                  : 250,
+    "message"                   : "onHeartbeat",
+    "duration"                  : 251,
+    "playRate"                  : 1,
+    "availableBitRates"         : [
+      990000,
+      1650000,
+      2400000,
+      3500000,
+      5200000
+    ],
+    "bitRate"                   : 5200000,
+    "downloadBitRate"           : 34988000,
+    "presentationStartTime"     : "2015-09-05 06:39:12"
+  }
+}

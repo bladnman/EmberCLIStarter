@@ -1,0 +1,12 @@
+{
+  "body": {
+    "strands": []
+  },
+  "header": {
+    "time_stamp": "2015-08-12T21:09:08.481Z",
+    "request_id": null,
+    "error": null,
+    "request": "/v2/timeline/8261228",
+    "status": "OK"
+  }
+}

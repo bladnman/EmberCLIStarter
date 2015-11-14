@@ -1,0 +1,54 @@
+{
+  "body": {
+    "program": {
+      "id": 25058,
+      "dvr_expiring": false,
+      "playable": false,
+      "keywords": [],
+      "in_custom_collections": [],
+      "synopsis": "My9",
+      "genres": [],
+      "cast": [],
+      "is_new": false,
+      "has_collections": false,
+      "vod_only": false,
+      "themes": [],
+      "subjects": [],
+      "generals": [],
+      "moods": [],
+      "urls": [
+        {
+          "type": "IMAGE",
+          "size": "network_small_58_44",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25058/26566_NETWORK_LARGE_440_330_NETWORK_SMALL_58_44.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_large_440_330",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25058/26566_NETWORK_LARGE_440_330_NETWORK_LARGE_440_330.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "logo",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25058/26566_NETWORK_LARGE_440_330_SIZE_SONY_CHANNEL_LOGO.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_medium_80_60",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25058/26566_NETWORK_LARGE_440_330_NETWORK_MEDIUM_80_60.png"
+        }
+      ],
+      "expiring": false,
+      "sentv_type": "channel",
+      "title": "My9",
+      "airings": []
+    }
+  },
+  "header": {
+    "time_stamp": "2015-08-10T21:20:32.783Z",
+    "request_id": null,
+    "error": null,
+    "request": "/v2/channel/25058",
+    "status": "OK"
+  }
+}

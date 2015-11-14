@@ -1,0 +1,1579 @@
+{
+  "body": {
+    "total_results": 28,
+    "items": [
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Newlyweds with high expectations plan to relocate to Raleigh, N.C.",
+        "series_synopsis": "The series brings potential home buyers a better understanding of the process, each episode following a prospective buyer and an agent from start to finish.",
+        "genres": [
+          {
+            "genre": "Home & Garden",
+            "genre_id": 67
+          },
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [],
+        "expiration_date": "2015-07-16T00:00:00.000Z",
+        "dvr_expiration_date": "2015-08-10T06:00:00.000Z",
+        "broadcast_date": "2015-07-12T00:00:00.000Z",
+        "tms_id": "EP003267331446",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/p185405_n79359_cc_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/p185405_l_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/p185405_b_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/185405.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/185405.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/185405.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/185405.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/p185405_b_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5405/p185405_b_h10_aa.jpg"
+          }
+        ],
+        "id": 1024433,
+        "channel": {
+          "channel_id": 25075,
+          "name_short": "HGTVD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            }
+          ],
+          "name": "HGTV"
+        },
+        "display_title": "House Hunters",
+        "display_episode_title": "House Hunters",
+        "expiring": true,
+        "airing_date": "2015-07-13T06:00:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 20276,
+        "title": "House Hunters",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "HGTV",
+            "age_rating": "TV-G",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-16T00:00:00.000Z",
+            "dvr_expiration_date": "2015-08-10T06:00:00.000Z",
+            "channel_id": 25075,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_MEDIUM_80_60.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-07-13T06:00:00.000Z",
+            "airing_enddate": "2015-07-13T06:30:00.000Z",
+            "airing_id": 7898832
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Unpaid rent and damages; defamation of character and refund; cost of pet care and unpaid rent.",
+        "series_synopsis": "This courtroom series stars former family court judge Judy Sheindlin. Each episode finds Judge Judy presiding over real small-claims cases inside a televised courtroom. Her no-nonsense, wisecracking approach has been unsuccessfully copied by other TV court judges.",
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          },
+          {
+            "genre": "Crime",
+            "genre_id": 97
+          }
+        ],
+        "cast": [],
+        "expiration_date": "2015-07-13T00:00:00.000Z",
+        "dvr_expiration_date": "2015-08-07T20:00:00.000Z",
+        "broadcast_date": "2015-07-10T00:00:00.000Z",
+        "tms_id": "EP001887105435",
+        "is_new": true,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/p184382_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/p184382_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/p184382_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/184382.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/184382.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/184382.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/184382.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/p184382_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4382/p184382_i_h10_aa.jpg"
+          }
+        ],
+        "id": 1025014,
+        "channel": {
+          "channel_id": 396,
+          "name_short": "WCBS",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_NETWORK_LARGE_440_330.png"
+            }
+          ],
+          "name": "CBS 2"
+        },
+        "title_sub": "Almost Homeless; Fight Over a Lemon!; Animal House",
+        "display_title": "Judge Judy",
+        "display_episode_title": "Almost Homeless; Fight Over a Lemon!; Animal House",
+        "season_num": "19",
+        "episode_num": "241",
+        "expiring": true,
+        "airing_date": "2015-07-10T20:00:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 20843,
+        "title": "Judge Judy",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "CBS 2",
+            "age_rating": "TV-PG",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": true,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-13T00:00:00.000Z",
+            "dvr_expiration_date": "2015-08-07T20:00:00.000Z",
+            "channel_id": 396,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_NETWORK_MEDIUM_80_60.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/396/cbs_wcbs_newyork_440x330_NETWORK_LARGE_440_330.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-07-10T20:00:00.000Z",
+            "airing_enddate": "2015-07-10T20:30:00.000Z",
+            "airing_id": 7878083
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "A countdown of some of the most important products for a baseball game.",
+        "series_synopsis": "A look behind the scenes at how everyday things are manufactured. Typically each episode includes three to four products featured, with a mix consisting of common items such as jeans, aluminum foil and cereal, and less predictable ones like wax figurines, braille typewriters and pinball machines.",
+        "genres": [
+          {
+            "genre": "Documentary",
+            "genre_id": 55
+          },
+          {
+            "genre": "Science & Technology",
+            "genre_id": 85
+          }
+        ],
+        "cast": [],
+        "expiration_date": "2015-07-15T00:00:00.000Z",
+        "dvr_expiration_date": "2015-08-09T22:30:00.000Z",
+        "broadcast_date": "2015-07-09T00:00:00.000Z",
+        "tms_id": "EP004154020644",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/p185509_i_v9_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/p185509_i_h9_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/p185509_i_h10_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/185509.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/185509.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/185509.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/185509.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/p185509_i_h10_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/5509/p185509_i_h10_ab.jpg"
+          }
+        ],
+        "id": 1021713,
+        "channel": {
+          "channel_id": 2754,
+          "name_short": "SCIHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "name": "Science"
+        },
+        "title_sub": "Home Run Edition",
+        "display_title": "How It's Made",
+        "display_episode_title": "Home Run Edition",
+        "expiring": true,
+        "airing_date": "2015-07-12T22:30:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 21966,
+        "title": "How It's Made",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Science",
+            "age_rating": "TV-G",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-15T00:00:00.000Z",
+            "dvr_expiration_date": "2015-08-09T22:30:00.000Z",
+            "channel_id": 2754,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/2754/science_440x330_NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-07-12T22:30:00.000Z",
+            "airing_enddate": "2015-07-12T23:00:00.000Z",
+            "airing_id": 7918285
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Memorable moments from the first half of Season 4; deleted scenes; sneak peeks.",
+        "series_synopsis": "From the producers of the critically acclaimed 2010 documentary film \"Catfish\" comes a TV version, which follows the journey of couples who have formed an online relationship but have never met in person. Filmmakers Yaniv \"Nev\" Schulman -- whose own online love drama was the subject of the \"Catfish\" film -- and Max Joseph travel around the country to tell the stories of these hopeful romantic partners, and each hourlong episode is filled with mystery, surprises, and sometimes even shocking revelations as one partner discovers the truth about his or her significant other. What will happen when they meet in real life for the first time?",
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [
+          {
+            "cast_id": 66456,
+            "name": "Yaniv \"Nev\" Schulman",
+            "type": "Host"
+          },
+          {
+            "cast_id": 66457,
+            "name": "Max Joseph",
+            "type": "Host"
+          }
+        ],
+        "expiration_date": "2015-07-12T03:02:00.000Z",
+        "dvr_expiration_date": "2015-08-06T03:02:00.000Z",
+        "broadcast_date": "2015-07-08T00:00:00.000Z",
+        "tms_id": "EP016169680087",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "upload_min_4_3",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images//msnas201/epg/epg-images/series/24076/the_voice_600x450_2.jpeg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/24076/the_voice_600x450_2_STANDARD_600_450.jpeg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/24076/the_voice_600x450_2_SIZE_SONY_PROGRAM_TILE.jpeg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/24076/the_voice_600x450_2_SIZE_SONY_PROGRAM_TILE_SMALL.jpeg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/94/74778/9474778.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "upload_min_16_9",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images//msnas201/epg/epg-images/series/24076/the_voice_2048x1152_2.jpeg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/24076/the_voice_2048x1152_2_HERO_1920_1080.jpeg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/24076/the_voice_2048x1152_2_HERO_2048_1152.jpeg"
+          }
+        ],
+        "id": 1025643,
+        "channel": {
+          "channel_id": 439,
+          "name_short": "MTVHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            }
+          ],
+          "name": "MTV"
+        },
+        "title_sub": "Fresh Catch Special",
+        "display_title": "Catfish: The TV Show",
+        "display_episode_title": "Fresh Catch Special",
+        "expiring": true,
+        "airing_date": "2015-07-09T03:02:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 24076,
+        "title": "Catfish: The TV Show",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "MTV",
+            "age_rating": "Not Rated",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-12T03:02:00.000Z",
+            "dvr_expiration_date": "2015-08-06T03:02:00.000Z",
+            "channel_id": 439,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_NETWORK_MEDIUM_80_60.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/439/mtv_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-07-09T03:02:00.000Z",
+            "airing_enddate": "2015-07-09T03:33:00.000Z",
+            "airing_id": 7943585
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Larry Wilmore is joined by South Carolina activist Bree Newsome.",
+        "series_synopsis": "Fans who know and love Larry Wilmore as the \"Senior Black Correspondent\" on \"The Daily Show With Jon Stewart\" are treated to the award-winning writer/comic hosting his own series. Sliding nicely into the coveted post-\"Daily Show\" time slot, \"The Nightly Show\" features Wilmore's humorous spin on news, current events and pop culture. A panel of contributors and guests participate as well. Wilmore created the critically acclaimed \"The Bernie Mac Show,\" which won an outstanding writing Emmy in 2002, and co-created the animated series \"The PJs\" with Eddie Murphy. His writing credits also include \"In Living Color,\" \"The Fresh Prince of Bel-Air\" and \"The Jamie Foxx Show.\"",
+        "genres": [
+          {
+            "genre": "Comedy",
+            "genre_id": 54
+          },
+          {
+            "genre": "Talk Shows",
+            "genre_id": 88
+          }
+        ],
+        "cast": [
+          {
+            "cast_id": 94766,
+            "name": "Larry Wilmore",
+            "type": "Host"
+          }
+        ],
+        "expiration_date": "2015-07-10T21:50:00.000Z",
+        "dvr_expiration_date": "2015-08-04T21:50:00.000Z",
+        "broadcast_date": "2015-07-02T00:00:00.000Z",
+        "tms_id": "EP019819660082",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/p11009929_i_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/p11009929_i_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/p11009929_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/11009929.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/11009929.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/11009929.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/11009929.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/p11009929_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/11/009929/p11009929_i_h10_aa.jpg"
+          }
+        ],
+        "id": 1019840,
+        "channel": {
+          "channel_id": 12732,
+          "name_short": "CCHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_SMALL_58_44.png"
+            }
+          ],
+          "name": "Comedy Central"
+        },
+        "title_sub": "Bree Newsome",
+        "display_title": "The Nightly Show With Larry Wilmore",
+        "display_episode_title": "Bree Newsome",
+        "season_num": "1",
+        "episode_num": "82",
+        "expiring": true,
+        "airing_date": "2015-07-07T21:50:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 27771,
+        "title": "The Nightly Show With Larry Wilmore",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Comedy Central",
+            "age_rating": "TV-14",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-10T21:50:00.000Z",
+            "dvr_expiration_date": "2015-08-04T21:50:00.000Z",
+            "channel_id": 12732,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_MEDIUM_80_60.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_SMALL_58_44.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-07-07T21:50:00.000Z",
+            "airing_enddate": "2015-07-07T22:22:00.000Z",
+            "airing_id": 7875234
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Author Sara Vowell.",
+        "series_synopsis": "Accused by some of misinforming its core audience of young adults about international news, this series doesn't hide the fact that it's not a news program and only uses newsworthy stories as a jumping-off point to satire. In addition to celebrity and politician interviews, Stewart and his staff perform skits to get their points across.",
+        "genres": [
+          {
+            "genre": "Comedy",
+            "genre_id": 54
+          },
+          {
+            "genre": "Talk Shows",
+            "genre_id": 88
+          }
+        ],
+        "cast": [
+          {
+            "cast_id": 54611,
+            "name": "Jon Stewart",
+            "type": "Host"
+          },
+          {
+            "cast_id": 69880,
+            "name": "Judd Apatow",
+            "type": "Guest"
+          }
+        ],
+        "expiration_date": "2015-07-06T22:16:00.000Z",
+        "dvr_expiration_date": "2015-07-31T22:16:00.000Z",
+        "broadcast_date": "2015-07-02T00:00:00.000Z",
+        "tms_id": "EP002930532551",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/p184268_b_v9_ac.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/p184268_b_h9_ac.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/p184268_i_h10_ac.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/184268.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/184268.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/184268.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/184268.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/p184268_i_h10_ac.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4268/p184268_i_h10_ac.jpg"
+          }
+        ],
+        "id": 1019839,
+        "channel": {
+          "channel_id": 12732,
+          "name_short": "CCHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_SMALL_58_44.png"
+            }
+          ],
+          "name": "Comedy Central"
+        },
+        "title_sub": "Sara Vowell",
+        "display_title": "The Daily Show With Jon Stewart",
+        "display_episode_title": "Sara Vowell",
+        "season_num": "20",
+        "episode_num": "130",
+        "expiring": true,
+        "airing_date": "2015-07-03T22:16:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 26831,
+        "title": "The Daily Show With Jon Stewart",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Comedy Central",
+            "age_rating": "TV-14",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-06T22:16:00.000Z",
+            "dvr_expiration_date": "2015-07-31T22:16:00.000Z",
+            "channel_id": 12732,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_MEDIUM_80_60.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_SMALL_58_44.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-07-03T22:16:00.000Z",
+            "airing_enddate": "2015-07-03T22:48:00.000Z",
+            "airing_id": 7836813
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Lisa transforms Springfield Elementary into a Waldorf school.",
+        "series_synopsis": "This long-running animated comedy focuses on the eponymous family in the town of Springfield in an unnamed U.S. state. The head of the Simpson family, Homer, is not a typical family man. A nuclear-plant employee, he does his best to lead his family but often finds that they are leading him. The family includes loving, blue-haired matriarch Marge, troublemaking son Bart, overachieving daughter Lisa and baby Maggie. Other Springfield residents include the family's religious neighbor, Ned Flanders, family physician Dr. Hibbert, Moe the bartender and police chief Clancy Wiggum.",
+        "genres": [
+          {
+            "genre": "Animation",
+            "genre_id": 50
+          },
+          {
+            "genre": "Comedy",
+            "genre_id": 54
+          }
+        ],
+        "cast": [],
+        "expiration_date": "2015-07-02T00:00:00.000Z",
+        "dvr_expiration_date": "2015-07-27T00:00:00.000Z",
+        "broadcast_date": "2015-05-17T00:00:00.000Z",
+        "tms_id": "EP000186930607",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_b_v9_ak.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_b_h9_ak.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/183872.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/3872/p183872_i_h10_aa.jpg"
+          }
+        ],
+        "id": 996364,
+        "channel": {
+          "channel_id": 6533,
+          "name_short": "WNYWDT",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "name": "Fox 5"
+        },
+        "title_sub": "Mathlete's Feat",
+        "display_title": "The Simpsons",
+        "display_episode_title": "Mathlete's Feat",
+        "season_num": "26",
+        "episode_num": "22",
+        "expiring": true,
+        "airing_date": "2015-06-29T00:00:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 21070,
+        "title": "The Simpsons",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png",
+            "channel_name": "Fox 5",
+            "age_rating": "TV-PG",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-02T00:00:00.000Z",
+            "dvr_expiration_date": "2015-07-27T00:00:00.000Z",
+            "channel_id": 6533,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-06-29T00:00:00.000Z",
+            "airing_enddate": "2015-06-29T00:30:00.000Z",
+            "airing_id": 7805284
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "A unique high school football fan; Daniel upholds his record of being better than everyone else.",
+        "series_synopsis": "Finally, this series' tag line announces, a TV show that steals from the Internet instead of the other way around. Comic Daniel Tosh lampoons the latest viral videos, blogs, websites and Internet fads and phenomena, plus he offers \"Web redemption\" to the many fools out there who have already sufficiently humiliated themselves online.",
+        "genres": [
+          {
+            "genre": "Comedy",
+            "genre_id": 54
+          }
+        ],
+        "cast": [
+          {
+            "cast_id": 53778,
+            "name": "Daniel Tosh",
+            "type": "Host"
+          }
+        ],
+        "expiration_date": "2015-07-02T07:58:00.000Z",
+        "dvr_expiration_date": "2015-07-27T07:58:00.000Z",
+        "broadcast_date": "2015-05-12T00:00:00.000Z",
+        "tms_id": "EP011496300185",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/p3527829_b_v9_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/p3527829_b_h9_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/p3527829_i_h10_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/3527829.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/3527829.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/3527829.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/3527829.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/p3527829_i_h10_ab.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/35/27829/p3527829_i_h10_ab.jpg"
+          }
+        ],
+        "id": 993136,
+        "channel": {
+          "channel_id": 12732,
+          "name_short": "CCHD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_SMALL_58_44.png"
+            }
+          ],
+          "name": "Comedy Central"
+        },
+        "title_sub": "High School Football Fan",
+        "display_title": "Tosh.0",
+        "display_episode_title": "High School Football Fan",
+        "season_num": "7",
+        "episode_num": "13",
+        "expiring": true,
+        "airing_date": "2015-06-29T07:58:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 20468,
+        "title": "Tosh.0",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "Comedy Central",
+            "age_rating": "TV-MA",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-02T07:58:00.000Z",
+            "dvr_expiration_date": "2015-07-27T07:58:00.000Z",
+            "channel_id": 12732,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_MEDIUM_80_60.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/12732/comedy_central_440x330_NETWORK_SMALL_58_44.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-06-29T07:58:00.000Z",
+            "airing_enddate": "2015-06-29T08:32:00.000Z",
+            "airing_id": 7807801
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "Chris discovers his new friend was just using him to get closer to Meg.",
+        "series_synopsis": "Sick, twisted and politically incorrect, the animated series features the adventures of the Griffin family. Endearingly ignorant Peter and his stay-at-home wife Lois reside in Quahog, R.I., and have three kids. Meg, the eldest child, is a social outcast, and teenage Chris is awkward and clueless when it comes to the opposite sex. The youngest, Stewie, is a genius baby bent on killing his mother and destroying the world. The talking dog, Brian, keeps Stewie in check while sipping martinis and sorting through his own life issues.",
+        "genres": [
+          {
+            "genre": "Animation",
+            "genre_id": 50
+          },
+          {
+            "genre": "Comedy",
+            "genre_id": 54
+          }
+        ],
+        "cast": [],
+        "expiration_date": "2015-07-16T00:00:00.000Z",
+        "dvr_expiration_date": "2015-08-10T01:00:00.000Z",
+        "broadcast_date": "2015-04-19T00:00:00.000Z",
+        "tms_id": "EP002960010278",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/p184483_b_v9_ah.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/p184483_b_h9_ah.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/p184483_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/184483.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/184483.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/184483.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/184483.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/p184483_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/18/4483/p184483_i_h10_aa.jpg"
+          }
+        ],
+        "id": 978004,
+        "channel": {
+          "channel_id": 6533,
+          "name_short": "WNYWDT",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_MEDIUM_80_60.png"
+            }
+          ],
+          "name": "Fox 5"
+        },
+        "title_sub": "Once Bitten",
+        "display_title": "Family Guy",
+        "display_episode_title": "Once Bitten",
+        "season_num": "13",
+        "episode_num": "16",
+        "expiring": true,
+        "airing_date": "2015-07-13T01:00:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 20845,
+        "title": "Family Guy",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png",
+            "channel_name": "Fox 5",
+            "age_rating": "TV-14",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-07-16T00:00:00.000Z",
+            "dvr_expiration_date": "2015-08-10T01:00:00.000Z",
+            "channel_id": 6533,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.logo.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/20/360/20360.NETWORK_MEDIUM_80_60.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-07-13T01:00:00.000Z",
+            "airing_enddate": "2015-07-13T01:30:00.000Z",
+            "airing_id": 7897450
+          }
+        ]
+      },
+      {
+        "dvr_expiring": false,
+        "playable": true,
+        "in_custom_collections": [],
+        "synopsis": "A couple tours three houses in Waco, Texas, and with their generous budget, they have many options.",
+        "series_synopsis": "Chip and Joanna Gaines own and operate Magnolia Homes, a remodeling and design business in Waco, Texas, and \"Fixer Upper\" shows the process by which the couple turn dilapidated but potential-rich houses into showplaces that are helping revitalize whole neighborhoods throughout central Texas. Chip manages the construction and realty side of Magnolia and Joanna is the lead designer. They also act as part-time counselors to clients who can't see a structure's beauty beyond the blemishes. Combined, Chip and Joanna save homes that look hopeless, renovating the imperfect, and revealing them as what they were always intended to be.",
+        "genres": [
+          {
+            "genre": "Home & Garden",
+            "genre_id": 67
+          },
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          }
+        ],
+        "cast": [
+          {
+            "cast_id": 75056,
+            "name": "Chip Gaines",
+            "type": "Host"
+          },
+          {
+            "cast_id": 75057,
+            "name": "Joanna Gaines",
+            "type": "Host"
+          }
+        ],
+        "expiration_date": "2015-06-30T00:00:00.000Z",
+        "dvr_expiration_date": "2015-07-25T16:00:00.000Z",
+        "broadcast_date": "2015-03-31T00:00:00.000Z",
+        "tms_id": "EP017277730027",
+        "is_new": false,
+        "is_favorite": true,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "tms_1080_1440",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/p9928145_b_v9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1440_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/p9928145_b_h9_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tms_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/p9928145_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "portrait_396_528",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/9928145.PORTRAIT_396_528.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/9928145.STANDARD_600_450.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/9928145.tile.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "tile_small",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/9928145.tile_small.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_1920_1080",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/p9928145_i_h10_aa.jpg"
+          },
+          {
+            "type": "IMAGE",
+            "size": "hero_2048_1152",
+            "src": "http://sentv-image-origin.bamnetworks.com/epg-images/series/99/28145/p9928145_i_h10_aa.jpg"
+          }
+        ],
+        "id": 962924,
+        "channel": {
+          "channel_id": 25075,
+          "name_short": "HGTVD",
+          "urls": [
+            {
+              "type": "IMAGE",
+              "size": "network_medium_80_60",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_MEDIUM_80_60.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_small_58_44",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_SMALL_58_44.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "network_large_440_330",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_LARGE_440_330.png"
+            },
+            {
+              "type": "IMAGE",
+              "size": "logo",
+              "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+            }
+          ],
+          "name": "HGTV"
+        },
+        "title_sub": "Family Favors French Country Fixer",
+        "display_title": "Fixer Upper",
+        "display_episode_title": "Family Favors French Country Fixer",
+        "season_num": "2",
+        "episode_num": "13",
+        "expiring": true,
+        "airing_date": "2015-06-27T16:00:00.000Z",
+        "sentv_type": "TV Shows",
+        "series_id": 24506,
+        "title": "Fixer Upper",
+        "airings": [
+          {
+            "vod_replacement_available": false,
+            "last_timecode": "00:10:20:00",
+            "badge": "dvr",
+            "channel_logo": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_SIZE_SONY_CHANNEL_LOGO.png",
+            "channel_name": "HGTV",
+            "age_rating": "TV-G",
+            "entitled": true,
+            "restrict_mobile": false,
+            "restrict_out_of_home": false,
+            "restrict_dvr_out_of_home": true,
+            "complete_playlist_available": true,
+            "block_fast_forward": true,
+            "expiration_date": "2015-06-30T00:00:00.000Z",
+            "dvr_expiration_date": "2015-07-25T16:00:00.000Z",
+            "channel_id": 25075,
+            "urls": [
+              {
+                "type": "IMAGE",
+                "size": "network_medium_80_60",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_MEDIUM_80_60.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_small_58_44",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_SMALL_58_44.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "network_large_440_330",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_NETWORK_LARGE_440_330.png"
+              },
+              {
+                "type": "IMAGE",
+                "size": "logo",
+                "src": "http://sentv-image-origin.bamnetworks.com/epg-images/channel/25075/hgtv_440x330_SIZE_SONY_CHANNEL_LOGO.png"
+              }
+            ],
+            "type": "catchup",
+            "airing_date": "2015-06-27T16:00:00.000Z",
+            "airing_enddate": "2015-06-27T17:00:00.000Z",
+            "airing_id": 7797695
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "request": "/v2/browse/items/favorites/filter/shows/sort/date/offset/0/size/10",
+    "status": "OK",
+    "error": null,
+    "time_stamp": "2015-07-13T12:08:33.141Z",
+    "request_id": null
+  }
+}

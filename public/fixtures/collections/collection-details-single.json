@@ -1,0 +1,47 @@
+{
+  "body": {
+    "items": [
+      {
+        "id": 756,
+        "urls": [
+          {
+            "type": "IMAGE",
+            "size": "standard_600_450",
+            "src": "http://epg-image.totsuko.tv/epg-images/collection/268/action_STANDARD_600_450.jpg"
+          }
+        ],
+        "sentv_type": "custom_collection",
+        "title": "Action",
+        "expiring": false,
+        "dvr_expiring": false,
+        "playable": false,
+        "synopsis": "",
+        "is_new": false,
+        "has_featured": false,
+        "themes": [],
+        "subjects": [],
+        "generals": [],
+        "moods": [],
+        "genres": [
+          {
+            "genre": "Reality",
+            "genre_id": 81
+          },
+          {
+            "genre": "Crime",
+            "genre_id": 97
+          }
+        ]
+      }
+    ],
+    "total_results": 1,
+    "programs": []
+  },
+  "header": {
+    "error": null,
+    "request": "/v2/browse/items/collections/custom/id/738/filter/all/sort/alpha/offset/0/size/100",
+    "status": "OK",
+    "time_stamp": "2015-09-01T05:31:36.869Z",
+    "request_id": "11"
+  }
+}

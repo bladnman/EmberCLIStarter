@@ -1,0 +1,54 @@
+{
+  "body": {
+    "program": {
+      "id": 25078,
+      "sentv_type": "channel",
+      "title": "USA",
+      "subjects": [],
+      "generals": [],
+      "moods": [],
+      "urls": [
+        {
+          "type": "IMAGE",
+          "size": "network_medium_80_60",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25078/usa_NETWORK_MEDIUM_80_60.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_small_58_44",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25078/usa_NETWORK_SMALL_58_44.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "network_large_440_330",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25078/usa_NETWORK_LARGE_440_330.png"
+        },
+        {
+          "type": "IMAGE",
+          "size": "logo",
+          "src": "http://epg-image.totsuko.tv/epg-images/channel/25078/usa_SIZE_SONY_CHANNEL_LOGO.png"
+        }
+      ],
+      "airings": [],
+      "synopsis": "USA",
+      "genres": [],
+      "cast": [],
+      "is_new": false,
+      "has_collections": false,
+      "vod_only": false,
+      "themes": [],
+      "expiring": false,
+      "dvr_expiring": false,
+      "playable": false,
+      "keywords": [],
+      "in_custom_collections": []
+    }
+  },
+  "header": {
+    "error": null,
+    "request": "/v2/channel/25078",
+    "status": "OK",
+    "time_stamp": "2015-08-10T21:21:23.535Z",
+    "request_id": null
+  }
+}
